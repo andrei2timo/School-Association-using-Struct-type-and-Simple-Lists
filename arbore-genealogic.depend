@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1526498466 source:c:\users\suvit\desktop\2-timo andrei claudiu - teza semestrul ii\arbore-genealogic\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<graphics.h>
+	<conio.h>
+
+1526750561 source:c:\users\suvit\desktop\scoala\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<graphics.h>
+	<conio.h>
+
